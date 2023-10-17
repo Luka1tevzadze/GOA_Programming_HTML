@@ -1,0 +1,101 @@
+body{
+    font-family: sans-serif;
+    color: rgb(45, 143, 25);
+    scroll-behavior: smooth;    
+}
+
+.nav_leaders{
+    text-align: center;
+    font-size: 32;
+    color: cyan;
+}
+
+.nav_contacts{
+    text-align: center;
+    font-size: 32;
+    color: cyan;
+}
+
+.hr_1{
+    position: relative;
+    top: 22px;
+}
+
+.goa_Satauri{
+    text-align: center;
+}
+
+.emotion_goa{
+    text-align: center;
+}
+
+.academy_jpg{
+    position: absolute;
+    right: 150px;
+    border-radius: 50px
+}
+
+.good_speech{
+    position: absolute;
+    top: 320px;
+    left: 180px;
+}
+
+.hr_2{
+    width: 75%;
+    position: absolute;
+    top: 450px;
+    right: 150px;
+}
+
+.join_goa{
+    position: absolute;
+    top: 450px;
+    left: 470px;
+}
+
+.u_will_study{
+    position: absolute;
+    top: 430px;
+    left: 200px;
+}
+
+.best_goa{
+    position: absolute;
+    top: 430px;
+    left: 920px;
+}
+
+.hr_3{
+    width: 80%;
+    position: absolute;
+    right: 120px;
+    bottom: -50px;
+}
+
+.hr_4{
+    width: 80%;
+    position: absolute;
+    right: 120px;
+    bottom: -380px;
+}
+
+.contacts_h1{
+    position: absolute;
+    bottom: -450px;
+    right: 590px;
+}   
+
+.facebook{
+    position: absolute;
+    bottom: -550px;
+    right: 590px;
+    font-size: 30;
+}
+
+.youtube{
+    position: absolute;
+    bottom: -680px;
+    right: 590px;
+    font-size: 30;
+}
